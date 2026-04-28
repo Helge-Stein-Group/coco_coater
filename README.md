@@ -128,8 +128,7 @@ coco-coater/
 
 ## Licence
 
-**Software** (everything in `software/`):  
-MIT Licence – see `LICENSE`
+All software and hardware design files are released under the MIT Licence.
 
 ---
 
