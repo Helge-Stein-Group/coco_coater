@@ -34,6 +34,7 @@ CoCo is an open-source automated electrode coating platform built on a modified 
 - PC with USB port (Windows, Linux, or macOS)
 
 See the Supporting Information of the paper for the complete bill of materials and assembly instructions.
+ ⚠️ **Important:** The Creality Ender-3 **SE** is required. The Ender-3 KE looks similar but does not have a serial communication interface and is incompatible for CoCo.
 
 ---
 
