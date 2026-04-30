@@ -112,21 +112,6 @@ Before first use:
 
 ---
 
-## Repository Structure
-coco-coater/
-├── README.md
-├── LICENSE              # MIT (software)
-├── software/
-│   └── coco_gui.py
-├── hardware/
-│   ├── step/            # STEP files (editable)
-│   ├── stl/             # STL files (print-ready)
-│   └── fusion360/       # F3D files
-└── data/
-└── example_result.xlsx
-
----
-
 ## Licence
 
 All software and hardware design files are released under the MIT Licence.
