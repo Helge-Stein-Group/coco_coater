@@ -118,12 +118,6 @@ All software and hardware design files are released under the MIT Licence.
 
 ---
 
-## Citation
-
-If you use CoCo in your research, please cite:
-
----
-
 ## Contact
 
 Leah Nuss  
