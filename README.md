@@ -5,9 +5,7 @@ CoCo is an open-source automated electrode coating platform built on a modified 
 **Total hardware cost: ~€200**
 
 > This repository accompanies the publication:
-> *CoCo, a Low-Cost Open Electrode Coating 
-> Platform with Integrated Process 
-> Characterisation*  
+> *Low-Cost Doctor Blade Coater with Integrated Process Characterization*  
 > L. Nuss, F. Ganster, H. S. Stein  
 
 ---
